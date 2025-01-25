@@ -3,7 +3,7 @@
 Use bun to play a chime in the terminal every 5 minutes.
 
 
-Play chime.mp3 (obtained from pixabay) every 5 minutes, 10 seconds before the
+Play chime.mp3 (obtained from [pixabay](https://pixabay.com/)) every 5 minutes, 10 seconds before the
 time elapses.
 
 This relies on a posix shell and ffplay:
